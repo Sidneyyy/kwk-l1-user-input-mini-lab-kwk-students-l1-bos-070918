@@ -23,5 +23,3 @@ puts "May i stay for as long as #{nights} nights."
 
 
 # Lastly, puts it all back by interpolating these values in a string.
-
-puts ""
