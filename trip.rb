@@ -7,9 +7,9 @@ puts "I would like to stay in #{stay}."
 
 puts "What do you want to eat?"
 
-eat = gets.chomp.capitalize
+eats = gets.chomp.capitalize
 
-puts "I would like to eat #{eat}."
+puts "I would like to eat #{eats}."
 
 puts "How many nights will you stay?"
 
